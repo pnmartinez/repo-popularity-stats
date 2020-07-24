@@ -2,8 +2,7 @@
 
 Simple tool to check whether a repo you are interested in is going viral. Useful to check where you stand in the "competitive advantage landscape".
 
-> "Something that every knows is no one's advantage".
-> > Bernard Baruch
+> "Something that every knows is no one's advantage".  Bernard Baruch
 
 ## Quickstart on commmand line (CLI)
 
