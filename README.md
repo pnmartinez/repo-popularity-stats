@@ -4,7 +4,7 @@ Simple tool for visually inspecting whether a repo you are interested in is goin
 
 ## Quickstart on commmand line (CLI)
 
-Simply:
+Simply get from the repo URL the `repo_creator/repo_name` and run:
 ```
 python cli.py repo_creator/repo_name
 ```
