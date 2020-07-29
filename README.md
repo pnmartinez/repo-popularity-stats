@@ -2,6 +2,8 @@
 
 Simple tool for visually inspecting whether a repo you are interested in is going viral. Useful to check where you stand in the "competitive advantage landscape" by using that code.
 
+![repo-popularity-stats-issue-creation-trend](https://repository-images.githubusercontent.com/282170014/29a85a80-d1e0-11ea-9c86-b9cf27490645)
+
 ## Quickstart on commmand line (CLI)
 
 Simply get from the repo URL the `repo_creator/repo_name` and run:
